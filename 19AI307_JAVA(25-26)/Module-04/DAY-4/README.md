@@ -20,9 +20,9 @@ To implement the Factory Design Pattern to send different types of notifications
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstract Factory Pattern using Java
-Developed by: ADITYA S
-RegisterNumber:  212223040007 
+Program to implement variables and Operators using Java
+Developed by: Jai Surya R
+RegisterNumber: 212223230084
 */
 ```
 

@@ -43,8 +43,8 @@ To write a Java program that reads four integer inputs from the user, performs a
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: ADITYA S
-RegisterNumber: 212223040007
+Developed by: Jai Surya R
+RegisterNumber: 212223230084
 */
 ```
 
