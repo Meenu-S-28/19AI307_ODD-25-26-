@@ -20,8 +20,8 @@ To write a Java program to print a hollow square pattern using asterisks (*).
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -57,6 +57,7 @@ public class HollowSquare {
 
 ## RESULT:
 The program successfully prints a hollow square pattern of size n × n.
+
 
 
 
