@@ -21,8 +21,8 @@ To write a Java program that prints all elements in an array greater than a give
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -73,6 +73,7 @@ public class ElementsGreaterThanX {
 
 ## RESULT:
 The program successfully prints all array elements greater than the given value.
+
 
 
 
