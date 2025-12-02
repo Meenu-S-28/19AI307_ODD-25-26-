@@ -21,8 +21,8 @@ To write a Java program that defines a class Calculator with one non-static meth
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -77,6 +77,7 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates the use of static and non-static methods in a class.
+
 
 
 
