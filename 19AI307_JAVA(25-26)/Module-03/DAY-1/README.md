@@ -24,8 +24,8 @@ To write a Java program using inheritance to calculate the final gold price for 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -160,5 +160,6 @@ public class prog {
 
 ## RESULT:
 The program successfully calculates and displays the final payable price for both Regular and Premium customers with applicable discounts and cashback.
+
 
 
