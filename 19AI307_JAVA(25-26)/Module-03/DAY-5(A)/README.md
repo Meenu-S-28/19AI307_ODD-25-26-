@@ -17,8 +17,8 @@ To demonstrate accessing an inner class from an outer class in Java.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -63,5 +63,6 @@ public class Main {
 
 ## RESULT:
 The program successfully accesses and prints data from the inner class using the outer class.
+
 
 
