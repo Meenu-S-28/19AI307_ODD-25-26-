@@ -19,8 +19,8 @@ To demonstrate the Abstract Factory Pattern by creating families of related obje
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -88,5 +88,6 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates the Abstract Factory Pattern, showing different animal interactions for Africa and Asia.
+
 
 
