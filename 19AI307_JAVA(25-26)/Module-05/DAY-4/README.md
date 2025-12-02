@@ -22,8 +22,8 @@ To read a thread name from the user and display the current thread’s name and 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -62,5 +62,6 @@ public class ThreadInfoExample {
 
 ## RESULT:
 The program successfully reads the thread name from the user and displays the current thread’s name and priority.
+
 
 
