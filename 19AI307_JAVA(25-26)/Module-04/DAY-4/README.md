@@ -21,8 +21,8 @@ To implement the Factory Design Pattern to send different types of notifications
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -102,5 +102,6 @@ public class Main {
 
 ## RESULT:
 The program successfully creates and sends the appropriate type of notification using the Factory Pattern.
+
 
 
