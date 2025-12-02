@@ -37,8 +37,8 @@ To write a Java program that determines whether using stairs or an elevator is f
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jai Surya R
-RegisterNumber: 212223230084
+Developed by: Meenu S
+RegisterNumber: 212223230124
 */
 ```
 
@@ -77,6 +77,7 @@ public class prog {
 
 ## RESULT:
 The program successfully determines the faster option between stairs and elevator.
+
 
 
 
